@@ -30,6 +30,3 @@ python contacts.py
 Python · JSON · Regex · OOP · CLI
 
 ---
-
-_Part of my journey back into tech — documented at
-[rebooted-engineer.hashnode.dev](https://rebooted-engineer.hashnode.dev)_
