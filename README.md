@@ -30,6 +30,3 @@ python contacts.py
 Python · JSON · Regex · OOP · CLI
 
 ---
-
-asklxz
-sxsad
